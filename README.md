@@ -40,9 +40,7 @@ la derecha. Observaremos que directamente Watson nos dirá "Hola" (también podr
 <li>Si reconoce #saludar entonces ofrecer ayuda.</li>
 </ul> <br> <br> <br>
 <img src="imagenes1/Imagen10.png"> <br> <br> <br>
-<p> Vemos que hemos escrito las posibles respuestas, esto es para que el bot no siempre conteste lo mismo. Para ello, cambiamos la opción <br>
-"Set to random". Ahora que hemos creado nuestro primer nodo, podemos probar la conversación. Para ello hacemos clic sobre el símbolo <br>
-de diálogo arriba a la derecha. <br> <br> <br> </p>
+<p> Vemos que hemos escrito las posibles respuestas, esto es para que el bot no siempre conteste lo mismo. Para ello, cambiamos la opción "Set to random". Ahora que hemos creado nuestro primer nodo, podemos probar la conversación. Para ello hacemos clic sobre el símbolo de diálogo arriba a la derecha. <br> <br> <br> </p>
 <img src="imagenes1/Imagen11.png"> <br> <br> <br>
 <p> Probamos a contestar saludando y comprobamos que nos responde lo que le habíamos indicado en la configuración. </p> <br> <br> <br>
 <img src="imagenes1/Imagen12.png"> <br> <br> <br>
