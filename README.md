@@ -22,14 +22,13 @@ Para este ejercicio vamos a utilizar los siguientes Intents. <br> <br> <br> </p>
 responde a la intención del usuario. <br>
 Para este ejercicio vamos a utilizar las siguientes Entities. </p> <br> <br> <br>
 <img src="imagenes1/cuadro2.png"> <br> <br> <br>
-<p> DIÁLOGO (DIALOG) </p> <br> <br> <br>
+<p> <b> DIÁLOGO (DIALOG) </b> </p> <br> <br> <br>
 <p> El diálogo es la secuencia que va a seguir nuestra conversación. Cuando creamos el diálogo, automáticamente nos crea <br> 
-dos nodos: "Bienvenido" y "En otras cosas". El nodo "Bienvenida" será el primero de la conversación y el nodo "En otras cosas" <br>
-servirá para dar respuesta cuando no entendamos algo. <br> <br> <br> </p>
+dos nodos: "Bienvenido" y "En otras cosas". El nodo "Bienvenida" será el primero de la conversación y el nodo "En otras cosas" servirá para dar respuesta cuando no entendamos algo. <br> <br> <br> </p>
 <img src="imagenes1/Imagen6.png"> <br> <br> <br>
 <p> Si hacemos clic sobre el nodo "Bienvenida" podemos configurarlo. </p> <br> <br> <br>
 <img src="imagenes1/Imagen7.png"> <br> <br> <br>
-<p> Para darnos la bienvenida, Watson dirá: "Hola. ¿Cómo puedo ayudarte?" Podemos cambiar esa frase por, por ejemplo, "Hola" <br>
+<p> Para darnos la bienvenida, Watson dirá: "Hola. ¿Cómo puedo ayudarte?" Podemos cambiar esa frase por, por ejemplo, "Hola" 
 y "Buenos días" (podemos añadir diferentes respuestas para que no siempre diga lo mismo). <br> <br> <br> </p>
 <img src="imagenes1/Imagen8.png"> <br> <br> <br>
 <p> Si queremos que responda aleatoriamente "Hola" o "Buenos días", debemos pulsar el botón "Set to random". <br>
