@@ -1,5 +1,5 @@
-# ENTRENAMIENTO DE LA IA </p> <br> <br> <br>
-## WATSON ASSISTANT  <br> <br> <br>
+# ENTRENAMIENTO DE LA IA </p> <br> <br> 
+## Generar una Conversación con el Servicio de WATSON ASSISTANT  <br> <br>
 <p> Watson Assistant permite crear chatbots o asistentes virtuales en diferentes canales. </p> <br> <br>
 <img src="imagenes1/Imagen1.png"> <br> <br> <br>
 <b> EJERCICIO 1: ASISTENTE PARA RESERVAR MESA EN UN RESTAURANTE </b> <br> <br> <br>
