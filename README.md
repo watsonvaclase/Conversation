@@ -12,7 +12,7 @@
 <p> ¡Ya podemos empezar a entrenar a Watson! </p> <br> <br> <br>
 <p> <b> INTENCIONES (INTENTS) </b> </p> <br> <br> <br>
 <p> Los Intents hacen referencia a la acción que quiere realizar el usuario (verbos). <br> 
-El grupo de ejemplos de frases que el usuario puede utilizar para expresar una idea o un objetivo específico se etiquetan <br> <br> <br>
+El grupo de ejemplos de frases que el usuario puede utilizar para expresar una idea o un objetivo específico se etiquetan <br>
 de la siguiente forma: #Idea. <br> <br> <br>
 Para este ejercicio vamos a utilizar los siguientes Intents. <br> <br> <br> </p>
 <img src="imagenes1/cuadro1.png"> <br> <br> <br>
